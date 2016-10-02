@@ -1,2 +1,2 @@
 # CV
-Academia CV
+Academic CV
