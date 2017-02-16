@@ -86,7 +86,7 @@ Tutor
 <br/>Multivariate Calculus, Linear Algebra, Trigonometry (high school and college levels), Statistics (i.e. research methods, analysis methods, simulation, signal detection theory), Mandarin, Programming data analysis               
 
 March 2013 to present                                                
-<br/>Translator, MCC Translation, Phoenix, AZ           
+Translator, MCC Translation, Phoenix, AZ           
 
 **SKILLS and CERTIFICATIONS**
 <br/>Computer Skills: 
