@@ -2,7 +2,7 @@
 
   Ning Mei
   <br/>New York University
-  <br/>nm2241@nyu.edu · (646) 209-0264
+  <br/>nm2241@nyu.edu · semsociaty@gmail.com
   <br/>Website: https://github.com/adowaconan
   <br/>Open Science Framework: https://osf.io/chav7/
 
