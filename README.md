@@ -82,7 +82,7 @@ Intern
 
 Fall 2012 to present
 <br/>Varsity Tutor
-<br/>Tutor 
+Tutor 
 <br/>Multivariate Calculus, Linear Algebra, Trigonometry (high school and college levels), Statistics (i.e. research methods, analysis methods, simulation, signal detection theory), Mandarin, Programming data analysis               
 
 March 2013 to present                                                
@@ -121,8 +121,8 @@ Beginner – Julia
 
 
 **Current Project
-<br/>Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm (https://github.com/adowaconan/Dichotic-Listening/blob/master/show_data.pdf)
-Implementing machine learning techniques in detecting spindles from EEG nap data (https://osf.io/fc3u5/)**
+1. Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm (https://github.com/adowaconan/Dichotic-Listening/blob/master/show_data.pdf)
+2. Implementing machine learning techniques in detecting spindles from EEG nap data (https://osf.io/fc3u5/)**
 
 
 
