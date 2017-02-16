@@ -55,7 +55,7 @@ Fall 2016 – present
 
 Spring 2017 – present
 <br/>Denis Pelli lab                                                                           
-<br/>Research assistant
+Research assistant
 <br/>Study of noise dynamic in visual grouping effect
 
 Spring 2014
