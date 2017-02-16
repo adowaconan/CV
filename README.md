@@ -29,20 +29,20 @@ AWARDS
 
 Fall 2014 – present
 <br/>David Poeppel lab                                                                                  
-<br/>MA research assistant
+MA research assistant
 <br/>Running psychophysics experiments, MEG experiments, data analysis
 <br/>Ongoing project: Investigating hemispheric asymmetry in perceiving Mandarin Tones, in conditions of hums or lexical tones. 
 https://github.com/adowaconan/Dichotic-Listening
 
 Spring 2015 – Fall 2016
 <br/>Catherine Good lab                                                                           
-<br/>MA research assistant
+MA research assistant
 <br/>Experimental subject testing, data collection, data analysis
 <br/>Data analysis on how sense of belonging in math moderating self-estimation in different confidence levels
 
 Spring 2016 – present
 <br/>Timothy Ellmore lab                                                                           
-<br/>MA research assistant
+MA research assistant
 <br/>Develop python/Matlab Input/Output interacting scripts/protocol for EEG data processing
 <br/>Selecting features to detect target brain wave patterns (i.e. spindles, k-complex, sleeping stages) in the signal 
 <br/>Automatic pipeline of non-supervised models to detect spindles (https://osf.io/fc3u5/)
@@ -60,22 +60,22 @@ Research assistant
 
 Spring 2014
 <br/>American Cancer Society Cancer Prevention Study – 3 	                            
-<br/>Volunteer, Research assistant 
+Volunteer, Research assistant 
 <br/>Recruiting subjects, social media research
 
 Fall 2012-Summer 2014
 <br/>ASU Changemaker center, Tempe, AZ 		                    
-<br/>Volunteer 
+Volunteer 
 <br/>Creating communities of support around new solutions/ideas
 
 Fall 2009, Spring 2010
 <br/>Canton Life Hot Line, Guangzhou, China                                        
-<br/>Intern 
+Intern 
 <br/>Consulting, recording consulting results
 
 Fall 2010, Spring 2011
 <br/>Research team, prisoner emotional health, Guangzhou, China        
-<br/>Intern 
+Intern 
 <br/>Collecting data about prisoners’ mental health 
 
 **Working experience**
