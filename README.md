@@ -51,7 +51,7 @@ Fall 2016 – present
 <br/>Data Science RoAD-Trip (Fund awarded - $4000) 
 <br/>The RoAD-Trip Joint Data Science Plan (Mentor: Gaurav Pandey)
 <br/>Implementing machine learning algorithms to detect target brain wave patterns (i.e. spindles, k-complex) 
-<br/>Implementing machine learning algorithm to classify sleeping stages within subjects
+<br/>Implementing machine learning algorithm to classify sleeping stages within subjects (https://github.com/adowaconan/Spindle_by_Graphical_Features)
 
 Spring 2017 – present
 <br/>Denis Pelli lab                                                                           
@@ -98,7 +98,7 @@ Excellent – Matlab
 <br/>Parametric tests, Nonparametric tests, Factorial analysis, Principle Component Analysis, Psychophysics Toolbox, Signal Processing Toolbox, Data Visualization, Scripts of Functions.
 
 Excellent – Python 
-<br/>Parametric tests, Nonparametric tests, Factorial analysis, Principle Component Analysis, Bayesian Model building, Model Evaluation, Data Visualization, Lambda Functions, Extensions of Python such as MNE-python (specialize in EEG, MEG data analysis), Pandas, Theano (machine learning implementation), and PyMC
+<br/>Parametric tests, Nonparametric tests, Factorial analysis, Principle Component Analysis, Bayesian Model building, Model Evaluation, Data Visualization, Lambda Functions, Extensions of Python such as MNE-python (specialize in EEG, MEG data analysis), Pandas, Theano (machine learning implementation), and PyMC3, Deep learning (Tensorflow, Keras) 
 <br/>Import and export excel, matlab, SPSS, and SAS files. Extract, transform, and load databases.               
 
 Excellent – SPSS
@@ -117,12 +117,13 @@ Beginner – Julia
 <br/>Courses taken: Calculus/Analytic Geometry I – III, Probability, Mathematical statistics, Simulation and Data Analysis, Mathematical Tools for Psychology and Neuroscience
 
 *Statistics Skills:*
-<br/>Parametric statistics, Non-parametric statistics, Factorial Analysis, Principle Component Analysis, Independent Component Analysis, Least square regression, Multivariate regression, Step-wise hierarchical regression, Logistic regression, Bayesian Inference, Machine Learning (python sci-kit learn).  
+<br/>Parametric statistics, Non-parametric statistics, Factorial Analysis, Principle Component Analysis, Independent Component Analysis, Least square regression, Multivariate regression, Step-wise hierarchical regression, Logistic regression, Bayesian Inference, Machine Learning (python sci-kit learn with some level of deep learning extention).  
 
 
 **Current Project
 1. Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm (https://github.com/adowaconan/Dichotic-Listening/blob/master/show_data.pdf)
-2. Implementing machine learning techniques in detecting spindles from EEG nap data (https://osf.io/fc3u5/)**
+2. Implementing machine learning techniques in detecting spindles from EEG nap data (https://osf.io/fc3u5/)
+3. Extract features from signal and graph space to detect sleep spindles, k-complex, and sleep stages via multiple EEG channels (https://github.com/adowaconan/Spindle_by_Graphical_Features)**
 
 
 
@@ -132,5 +133,6 @@ Dr. Adeen Flinker,  project 1 direct supervisor
 <br/>Dr. David Poeppel, principle investigator of Poepple lab
 <br/>Dr. Timothy Ellmore, tellmore@ccny.cuny.edu, principle investigator of Ellmore lab, and project 2 supervisor
 <br/>Dr. Michael Grossberg, michaeldg@gmail.com, project 2 supervisor
+<br />Dr. Gaurav Pandey, supervisor of project 2 part 2. gaurav.pandey@mssm.edu 
 
 
