@@ -175,17 +175,8 @@ Ning et al., (under review). Dichotic listening effect of Mandarin tones.
   - [x] part 1, https://osf.io/fc3u5/;github.com/adowaconan/modification-pipelines
   - [x] part 2, https://github.com/adowaconan/Spindle_by_Graphical_Features
   - [ ] part 3, https://github.com/adowaconan/SpindleClassification_DeepConvolutionalNeuralNets
-- [ ] Decoding mental states of living vs. non-living words through fMRI scans
+- Decoding mental states of living vs. non-living words through fMRI scans
   - [ ] https://github.com/adowaconan/animal_vs_tool_decoding_deep_learning
   - [ ] https://github.com/adowaconan/Autoencoder_experiment_fMRI
   - [ ] https://github.com/adowaconan/Deep_learning_fMRI
   - [ ] https://github.com/adowaconan/animal_vs_tool_decoding)
-
-
-
-Dr. Adeen Flinker,  project 1 direct supervisor
-<br/>Dr. Xing Tian,  xing.tian@nyu.edu, project 1 collaborator, supervisor, and thesis grader
-<br/>Dr. David Poeppel, principle investigator of Poepple lab
-<br/>Dr. Timothy Ellmore, tellmore@ccny.cuny.edu, principle investigator of Ellmore lab, and project 2 supervisor
-<br/>Dr. Michael Grossberg, michaeldg@gmail.com, project 2 supervisor
-<br />Dr. Gaurav Pandey, supervisor of project 2 part 2. gaurav.pandey@mssm.edu
