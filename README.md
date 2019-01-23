@@ -21,9 +21,9 @@ Guangzhou University of Traditional Chinese Medicine, Guangzhou, China
       B.S. in Applied Psychology                                                       
 
 # Publication
-- Ning Mei, Michael Grossberg, Kenneth Ng, Karen Navarro, and Timothy Ellmore. (2017). Identifying sleep spindle with multi-channel EEG and classification optimization. Computer of Biology and Medicine. 89:441 - 453. doi: 10.1016/j.compbiomed.2017.08.030.
+- Ning Mei, Michael Grossberg, Kenneth Ng, Karen Navarro, and Timothy Ellmore. (2017). [Identifying sleep spindle with multi-channel EEG and classification optimization](https://www.researchgate.net/profile/Timothy_Ellmore/publication/319447128_Identifying_sleep_spindles_with_multichannel_EEG_and_classification_optimization/links/59dd5d79a6fdcc276fa2ed13/Identifying-sleep-spindles-with-multichannel-EEG-and-classification-optimization.pdf). Computer of Biology and Medicine. 89:441 - 453. doi: 10.1016/j.compbiomed.2017.08.030.
 - Timothy Ellmore, Chelsea Reichert, Kenneth Ng, and Ning Mei, Visual continuous recognition reveals widespread cortical contributions to scene memory. (under review)
-- Ning Mei, Michael Grossberg, Karen Navarro, Kenneth Ng, and Timothy Ellmore (2018), A high-density scalp EEG dataset acquired during brief naps after a visual working memory task. Data Brief. 18:1513-1519. doi:  10.1016/j.dib.2018.04.073
+- Ning Mei, Michael Grossberg, Karen Navarro, Kenneth Ng, and Timothy Ellmore (2018), [A high-density scalp EEG dataset acquired during brief naps after a visual working memory task](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5998176/). Data Brief. 18:1513-1519. doi:  10.1016/j.dib.2018.04.073
 Ning et al., (under review). Dichotic listening effect of Mandarin tones.
 
 # CONFERENCE POSTERS
@@ -36,52 +36,58 @@ Ning et al., (under review). Dichotic listening effect of Mandarin tones.
 
 # Research and Internships
 
-1. Fall 2014 – Fall 2017
-    David Poeppel lab                                                                                  
+1. David Soto Group
+      Doctoral researcher
+      - Running psychophysics experiments, fMRI experiments, data analysis (M/EEG, fMRI, behavioral, etc)
+      - Ongoing project:
+       a. Deep neural network models represent latent space of Spanish/Basque unconscious noun words that belong to different semantic categories
+
+2. Fall 2014 – Fall 2017
+    David Poeppel Lab (NYU)                                                                            
       MA research assistant
       - Running psychophysics experiments, MEG experiments, data analysis
       - Ongoing project: Investigating hemispheric asymmetry in perceiving Mandarin Tones, in conditions of hums or lexical tones.
 
-2. Spring 2015 – Fall 2016
-    Catherine Good lab                                                                           
+3. Spring 2015 – Fall 2016
+    Catherine Good Lab (CUNY-Baruch)                                                                      
       MA research assistant
       - Experimental subject testing, data collection, data analysis
       - Data analysis on how sense of belonging in math moderating self-estimation in different confidence levels
 
-3. Spring 2016 – Spring 2018
-    Timothy Ellmore lab                                                                           
+4. Spring 2016 – Spring 2018
+    Timothy Ellmore Lab (CUNY-North)                                                   
       MA research assistant
       - Develop python/Matlab Input/Output interacting scripts/protocol for EEG data processing
       - Selecting features to detect target brain wave patterns (i.e. spindles, k-complex, sleeping stages) in the signal
       - Automatic pipeline of non-supervised models to detect spindles (https://osf.io/fc3u5/)
 
-4. Fall 2016 – Spring 2017
+5. Fall 2016 – Spring 2017
     Data Science RoAD-Trip (Fund awarded - $4000)
       The RoAD-Trip Joint Data Science Plan (Mentor: Gaurav Pandey)
       - Implementing machine learning algorithms to detect target brain wave patterns (i.e. spindles, k-complex)
       - Implementing machine learning algorithm to classify sleeping stages within subjects (https://github.com/adowaconan/Spindle_by_Graphical_Features)
 
-5. Spring 2017 – Fall 2017
-    Denis Pelli lab                                                                           
+6. Spring 2017 – Fall 2017
+    Denis Pelli Lab                                                                           
       Research assistant
       - Study of noise dynamic in visual grouping effect
 
-6. Spring 2014
+7. Spring 2014
     American Cancer Society Cancer Prevention Study – 3 	                            
       Volunteer, Research assistant
       - Recruiting subjects, social media research
 
-7. Fall 2012-Summer 2014
+8. Fall 2012-Summer 2014
     ASU Changemaker center, Tempe, AZ 		                    
       Volunteer
       - Creating communities of support around new solutions/ideas
 
-8. Fall 2009, Spring 2010
+9. Fall 2009, Spring 2010
     Canton Life Hot Line, Guangzhou, China                                        
       Intern
       - Consulting, recording consulting results
 
-9. Fall 2010, Spring 2011
+10. Fall 2010, Spring 2011
     Research team, prisoner emotional health, Guangzhou, China        
       Intern
       - Collecting data about prisoners’ mental health assessments
