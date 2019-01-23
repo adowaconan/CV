@@ -40,7 +40,8 @@ Ning et al., (under review). Dichotic listening effect of Mandarin tones.
       Doctoral researcher
       - Running psychophysics experiments, fMRI experiments, data analysis (M/EEG, fMRI, behavioral, etc)
       - Ongoing project:
-        a. Deep neural network models represent latent space of Spanish/Basque unconscious noun words that belong to different semantic categories
+      
+      a. Deep neural network models represent latent space of Spanish/Basque unconscious noun words that belong to different semantic categories
 
 2. Fall 2014 – Fall 2017
     David Poeppel Lab (NYU)                                                                            
