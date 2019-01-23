@@ -42,7 +42,9 @@ Ning et al., (under review). Dichotic listening effect of Mandarin tones.
       - Ongoing project:
       
       a. Deep neural network models represent latent space of Spanish/Basque unconscious noun words that belong to different semantic categories
+      
       b. Benchmarking decoding models of Spanish/Basque conscious/unconscious noun words in various conditions (i.e. read, dep process, social conditions)
+      
       c. How computer vision and semantic representation models provide insights of unconscious processing of object images and their semantic categories
 
 2. Fall 2014 – Fall 2017
@@ -179,13 +181,15 @@ Ning et al., (under review). Dichotic listening effect of Mandarin tones.
 
 
 # Current Project
-- [x] Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm (https://github.com/adowaconan/Dichotic-Listening/blob/master/show_data.pdf)
+- Behavioral
+  - [x] Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm (https://github.com/adowaconan/Dichotic-Listening/blob/master/show_data.pdf)
 - Implementing machine learning techniques in detecting spindles from EEG nap data
-  - [x] part 1, https://osf.io/fc3u5/;github.com/adowaconan/modification-pipelines
-  - [x] part 2, https://github.com/adowaconan/Spindle_by_Graphical_Features
-  - [ ] part 3, https://github.com/adowaconan/SpindleClassification_DeepConvolutionalNeuralNets
+  - [x] [part 1](https://osf.io/fc3u5/) (published); [uncleaned code](github.com/adowaconan/modification-pipelines)
+  - [x] [part 2](https://github.com/adowaconan/Spindle_by_Graphical_Features)
+  - [ ] [part 3](https://github.com/adowaconan/SpindleClassification_DeepConvolutionalNeuralNets)
 - Decoding mental states of living vs. non-living words through fMRI scans
-  - [ ] https://github.com/adowaconan/animal_vs_tool_decoding_deep_learning
-  - [ ] https://github.com/adowaconan/Autoencoder_experiment_fMRI
-  - [ ] https://github.com/adowaconan/Deep_learning_fMRI
-  - [ ] https://github.com/adowaconan/animal_vs_tool_decoding)
+  - [x] [part 1: exploration, single dataset](https://github.com/adowaconan/animal_vs_tool_decoding_deep_learning)
+  - [x] [part 2: unsuccessful attempt, single dataset. ](https://github.com/adowaconan/Autoencoder_experiment_fMRI)Note: not enough data for training a deep neural autoencoder
+  - [ ] [part 3: Google Colab demos](https://github.com/adowaconan/Deep_learning_fMRI)
+  - [x] [part 4: benchmarking, single dataset](https://github.com/adowaconan/animal_vs_tool_decoding)
+  - [ ] [part 5: benchmarking, 4 different datasets]
