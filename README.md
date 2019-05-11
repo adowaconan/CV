@@ -21,6 +21,7 @@ Guangzhou University of Traditional Chinese Medicine, Guangzhou, China
       B.S. in Applied Psychology                                                       
 
 # Publication
+- Ning Mei, Sean Rankine, Einar Olafsson, David Soto. (under review). [Machine learning predicts human prospective decision making](https://www.biorxiv.org/content/10.1101/607069v2.full). BioAxiv, doi: https://doi.org/10.1101/607069
 - Ning Mei, Michael Grossberg, Kenneth Ng, Karen Navarro, and Timothy Ellmore. (2017). [Identifying sleep spindle with multi-channel EEG and classification optimization](https://www.researchgate.net/profile/Timothy_Ellmore/publication/319447128_Identifying_sleep_spindles_with_multichannel_EEG_and_classification_optimization/links/59dd5d79a6fdcc276fa2ed13/Identifying-sleep-spindles-with-multichannel-EEG-and-classification-optimization.pdf). Computer of Biology and Medicine. 89:441 - 453. doi: 10.1016/j.compbiomed.2017.08.030.
 - Timothy Ellmore, Chelsea Reichert, Kenneth Ng, and Ning Mei, Visual continuous recognition reveals widespread cortical contributions to scene memory. (under review)
 - Ning Mei, Michael Grossberg, Karen Navarro, Kenneth Ng, and Timothy Ellmore (2018), [A high-density scalp EEG dataset acquired during brief naps after a visual working memory task](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5998176/). Data Brief. 18:1513-1519. doi:  10.1016/j.dib.2018.04.073
@@ -182,14 +183,14 @@ Ning et al., (under review). Dichotic listening effect of Mandarin tones.
 
 # Current Project
 - Behavioral
-  - [x] Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm (https://github.com/adowaconan/Dichotic-Listening/blob/master/show_data.pdf)
+  - [x] Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm (https://github.com/nmningmei/Dichotic-Listening/blob/master/show_data.pdf)
 - Implementing machine learning techniques in detecting spindles from EEG nap data
-  - [x] [part 1](https://osf.io/fc3u5/) (published); [uncleaned code](github.com/adowaconan/modification-pipelines)
-  - [x] [part 2](https://github.com/adowaconan/Spindle_by_Graphical_Features)
-  - [ ] [part 3](https://github.com/adowaconan/SpindleClassification_DeepConvolutionalNeuralNets)
+  - [x] [part 1](https://osf.io/fc3u5/) (published); [uncleaned code](github.com/nmningmei/modification-pipelines)
+  - [x] [part 2](https://github.com/nmningmei/Spindle_by_Graphical_Features)
+  - [ ] [part 3](https://github.com/nmningmei/SpindleClassification_DeepConvolutionalNeuralNets)
 - Decoding mental states of living vs. non-living words through fMRI scans
-  - [x] [part 1: exploration, single dataset](https://github.com/adowaconan/animal_vs_tool_decoding_deep_learning)
-  - [x] [part 2: unsuccessful attempt, single dataset. ](https://github.com/adowaconan/Autoencoder_experiment_fMRI)Note: not enough data for training a deep neural autoencoder
-  - [ ] [part 3: Google Colab demos](https://github.com/adowaconan/Deep_learning_fMRI)
-  - [x] [part 4: benchmarking, single dataset](https://github.com/adowaconan/animal_vs_tool_decoding)
+  - [x] [part 1: exploration, single dataset](https://github.com/nmningmei/animal_vs_tool_decoding_deep_learning)
+  - [x] [part 2: unsuccessful attempt, single dataset. ](https://github.com/nmningmei/Autoencoder_experiment_fMRI)Note: not enough data for training a deep neural autoencoder
+  - [ ] [part 3: Google Colab demos](https://github.com/nmningmei/Deep_learning_fMRI)
+  - [x] [part 4: benchmarking, single dataset](https://github.com/nmningmei/animal_vs_tool_decoding)
   - [ ] [part 5: benchmarking, 4 different datasets]
