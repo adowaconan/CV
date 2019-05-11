@@ -3,7 +3,7 @@
   **Ning Mei**
 - Ph.D: Basque Center for Brain, Cognitive, and Language (BCBL), Donostia, Spain
 - Email: n.mei@bcbl.eu · nm2241@nyu.edu · semsociaty@gmail.com
-- Website: https://github.com/adowaconan
+- Website: https://github.com/nmningmei
 - Open Science Framework: https://osf.io/chav7/
 
 # EDUCATION
