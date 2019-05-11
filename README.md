@@ -8,16 +8,16 @@
 
 # EDUCATION
 1. In progress
-Basque Center for Brain, Cognitive, and Language (BCBL)
+<br />Basque Center for Brain, Cognitive, and Language (BCBL)
       Ph.D in neuroscience
 2. 2016
-New York University, New York, NY
+<br />New York University, New York, NY
       M.A in Psychology (General)
 3. 2014	     
-Arizona State University, Tempe, AZ                                                                                          
+<br />Arizona State University, Tempe, AZ                                                                                          
       B.A. in Psychology (minor in Statistics)        
 4. 2012
-Guangzhou University of Traditional Chinese Medicine, Guangzhou, China                      
+<br />Guangzhou University of Traditional Chinese Medicine, Guangzhou, China                      
       B.S. in Applied Psychology                                                       
 
 # Publication
