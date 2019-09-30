@@ -21,15 +21,24 @@
       B.S. in Applied Psychology                                                       
 
 # Publication
-- Ning Mei, Sean Rankine, Einar Olafsson, David Soto. (under review). [Machine learning predicts human prospective decision making](https://www.biorxiv.org/content/10.1101/607069v2.full). BioAxiv, doi: https://doi.org/10.1101/607069
-- Ning Mei, Michael Grossberg, Kenneth Ng, Karen Navarro, and Timothy Ellmore. (2017). [Identifying sleep spindle with multi-channel EEG and classification optimization](https://www.researchgate.net/profile/Timothy_Ellmore/publication/319447128_Identifying_sleep_spindles_with_multichannel_EEG_and_classification_optimization/links/59dd5d79a6fdcc276fa2ed13/Identifying-sleep-spindles-with-multichannel-EEG-and-classification-optimization.pdf). Computer of Biology and Medicine. 89:441 - 453. doi: 10.1016/j.compbiomed.2017.08.030.
-- Timothy Ellmore, Chelsea Reichert, Kenneth Ng, and Ning Mei, Visual continuous recognition reveals widespread cortical contributions to scene memory. (under review)
-- Ning Mei, Michael Grossberg, Karen Navarro, Kenneth Ng, and Timothy Ellmore (2018), [A high-density scalp EEG dataset acquired during brief naps after a visual working memory task](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5998176/). Data Brief. 18:1513-1519. doi:  10.1016/j.dib.2018.04.073
-Ning et al., (under review). Dichotic listening effect of Mandarin tones.
+- Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.
+
+- Ellmore, T. M., Reichert, C. P., Ng, K., & Mei, N. (2017). Visual Continuous Recognition Reveals Widespread Cortical Contributions to Scene Memory. bioRxiv, 234609.
+Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2018). A high-density scalp EEG dataset acquired during brief naps after a visual working memory task. Data in brief, 18, 1513-1519. doi: 10.1016/j.dib.2018.04.073
+
+- Mei et al., (under review). Dichotic listening effect of Mandarin tones.
+
+- Mei, N., Rankine, S., Olafsson, E., & Soto, D. (2019). Predicting human prospective beliefs and decisions to engage using multivariate classification analyses of behavioural data. bioRxiv, 607069.
 
 # CONFERENCE POSTERS
 - Teng, X., Mei, N., Tian, X., & Poeppel, D. (2016). Auditory temporal windows revealed by locally reversing Mandarin speech. Society for Neurobiology of Language, Poster (co-first-author), Cognitive Neuroscience Society, 2016
+
 - Kim, T., Mei, N., Poeppel, D., & Flinker, A. (2015). A new acoustic space for hemispheric asymmetries. Society for Neurobiology of Language, Poster (co-first-author), Society for Neuroscience, 2015
+
+- Mei, N., Sheikh, U., Santana, R., & Soto, D. (2019, September). How the brain encodes meaning: Comparing word embedding and computer vision models to predict fMRI data during visual word recognition. Cognitive Computational Neuroscience Conference, Berline, Germany.
+
+- Mei, N., & Soto, D. (2019, September). Predicting human prospective beliefs and decisions to engage using multivariate classification analyses of behavioural data. Cognitive Computational Neuroscience Conference, Berline, Germany.
+
 
 # AWARDS
 - Arizona State University, Dean’s list                                                                   2013, 2014
@@ -136,7 +145,7 @@ Ning et al., (under review). Dichotic listening effect of Mandarin tones.
     - Principle Component Analysis
     - Bayesian Model building (PYMC3)
     - Model Evaluation, Data Visualization, Lambda Functions,
-    - Extensions of Python such as MNE-python (specialize in EEG, MEG data analysis)
+    - Extensions of Python such as MNE-python (specialize in EEG, MEG data analysis), Nipype (specialize in fMRI)
     - Pandas
     - Deep learning (Tensorflow/Keras, pytorch)
     - Import and export excel, matlab, SPSS, and SAS files. Extract, transform, and load databases.               
