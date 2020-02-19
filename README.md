@@ -9,7 +9,7 @@
 # EDUCATION
 1. In progress
 <br />Basque Center for Brain, Cognitive, and Language (BCBL)
-      Ph.D in neuroscience
+      Ph.D in Cognitive Neuroscience
 2. 2016
 <br />New York University, New York, NY
       M.A in Psychology (General)
@@ -21,14 +21,15 @@
       B.S. in Applied Psychology                                                       
 
 # Publication
-- Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.
+- [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.](https://www.academia.edu/download/54393579/Mei_2017.pdf)
 
 - Ellmore, T. M., Reichert, C. P., Ng, K., & Mei, N. (2017). Visual Continuous Recognition Reveals Widespread Cortical Contributions to Scene Memory. bioRxiv, 234609.
-Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2018). A high-density scalp EEG dataset acquired during brief naps after a visual working memory task. Data in brief, 18, 1513-1519. doi: 10.1016/j.dib.2018.04.073
 
-- Mei et al., (under review). Dichotic listening effect of Mandarin tones.
+- [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2018). A high-density scalp EEG dataset acquired during brief naps after a visual working memory task. Data in brief, 18, 1513-1519. doi: 10.1016/j.dib.2018.04.073](https://www.ncbi.nlm.nih.gov/pubmed/29904654)
 
-- Mei, N., Rankine, S., Olafsson, E., & Soto, D. (2019). Predicting human prospective beliefs and decisions to engage using multivariate classification analyses of behavioural data. bioRxiv, 607069.
+- [Mei, N., Flinker, A., Zhu, M., Cai, Q., And Tian, X. (2020). Lateralization in the dichotic listening of tones is influenced by the content of speech. Neuropsychologia](https://www.researchgate.net/publication/339151652_Lateralization_in_the_dichotic_listening_of_tones_is_influenced_by_the_content_of_speech)
+
+- [Mei, N., Rankine, S., Olafsson, E., & Soto, D. (under review). Predicting human prospective beliefs and decisions to engage using multivariate classification analyses of behavioural data. bioRxiv, 607069.](https://www.biorxiv.org/content/10.1101/607069v4.full)
 
 # CONFERENCE POSTERS
 - Teng, X., Mei, N., Tian, X., & Poeppel, D. (2016). Auditory temporal windows revealed by locally reversing Mandarin speech. Society for Neurobiology of Language, Poster (co-first-author), Cognitive Neuroscience Society, 2016
@@ -192,14 +193,16 @@ Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2018). A hi
 
 # Current Project
 - Behavioral
-  - [x] Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm (https://github.com/nmningmei/Dichotic-Listening/blob/master/show_data.pdf)
+  - [x] [Investigating hemispherical difference in processing acoustic cues and lexical cues of Mandarin Tones using dichotic listening paradigm](https://github.com/nmningmei/dichotic-listening-of-tones-is-influenced-by-the-content-of-speech/blob/master/README.md)
 - Implementing machine learning techniques in detecting spindles from EEG nap data
   - [x] [part 1](https://osf.io/fc3u5/) (published); [uncleaned code](github.com/nmningmei/modification-pipelines)
   - [x] [part 2](https://github.com/nmningmei/Spindle_by_Graphical_Features)
-  - [ ] [part 3](https://github.com/nmningmei/SpindleClassification_DeepConvolutionalNeuralNets)
+  - [x] [part 3](https://github.com/nmningmei/SpindleClassification_DeepConvolutionalNeuralNets)
+  - [ ] [part 4: follow-up]
 - Decoding mental states of living vs. non-living words through fMRI scans
   - [x] [part 1: exploration, single dataset](https://github.com/nmningmei/animal_vs_tool_decoding_deep_learning)
   - [x] [part 2: unsuccessful attempt, single dataset. ](https://github.com/nmningmei/Autoencoder_experiment_fMRI)Note: not enough data for training a deep neural autoencoder
   - [ ] [part 3: Google Colab demos](https://github.com/nmningmei/Deep_learning_fMRI)
   - [x] [part 4: benchmarking, single dataset](https://github.com/nmningmei/animal_vs_tool_decoding)
-  - [ ] [part 5: benchmarking, 4 different datasets]
+  - [x] [part 5: benchmarking, 4 different datasets]
+  - [ ] [part 6: masked images, single data, 7 subjects](https://github.com/nmningmei/mask_image_FOREST)
