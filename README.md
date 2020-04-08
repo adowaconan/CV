@@ -29,7 +29,7 @@
 
 - [Mei, N., Flinker, A., Zhu, M., Cai, Q., And Tian, X. (2020). Lateralization in the dichotic listening of tones is influenced by the content of speech. Neuropsychologia](https://www.researchgate.net/publication/339151652_Lateralization_in_the_dichotic_listening_of_tones_is_influenced_by_the_content_of_speech)
 
-- [Mei, N., Rankine, S., Olafsson, E., & Soto, D. (under review). Predicting human prospective beliefs and decisions to engage using multivariate classification analyses of behavioural data. bioRxiv, 607069.](https://www.biorxiv.org/content/10.1101/607069v4.full)
+- [Mei, N., Rankine, S., Olafsson, E., & Soto, D. (under review). Similar history biases for distinct prospective decisions of self-performance. bioRxiv, 607069.](https://www.biorxiv.org/content/10.1101/607069v8)
 
 # CONFERENCE POSTERS
 - Teng, X., Mei, N., Tian, X., & Poeppel, D. (2016). Auditory temporal windows revealed by locally reversing Mandarin speech. Society for Neurobiology of Language, Poster (co-first-author), Cognitive Neuroscience Society, 2016
