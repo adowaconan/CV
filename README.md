@@ -21,7 +21,7 @@
       B.S. in Applied Psychology                                                       
 
 # Publication
-- [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.](https://www.academia.edu/download/54393579/Mei_2017.pdf)
+- [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5650544/)
 
 - Ellmore, T. M., Reichert, C. P., Ng, K., & Mei, N. (2017). Visual Continuous Recognition Reveals Widespread Cortical Contributions to Scene Memory. bioRxiv, 234609.
 
